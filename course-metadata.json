@@ -1,0 +1,27 @@
+{
+  "id": "689618e1ac454f4cfad2b11b",
+  "title": "React Curriculum V3",
+  "description": "No description available",
+  "learningObjectives": [
+    "No learning objectives"
+  ],
+  "finalProjectDetails": {
+    "overview": "No final project specified.",
+    "planningResources": [],
+    "submissionInstructions": "No submission instructions provided.",
+    "requirements": [
+      "No requirements specified."
+    ]
+  },
+  "createdBy": {
+    "name": "Doina Fitchevici",
+    "githubUsername": "DoinaFitchevici"
+  },
+  "contributors": [],
+  "status": "pending",
+  "originalGithubUrl": "https://github.com/Code-the-Dream-School/react-curriculum-v3",
+  "remoteGithubUrl": "https://github.com/DoinaFitchevici/react-curriculum-v3",
+  "createdAt": "2025-08-08T15:33:53.202Z",
+  "updatedAt": "2025-08-08T15:33:54.443Z",
+  "lessonCount": 16
+}
